@@ -1,0 +1,5 @@
+# class
+. Animation attack_animation public
+. Texture2D thunder_one public
+. Texture2D thunder_two public
+. float fire_rate public

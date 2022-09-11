@@ -1,0 +1,6 @@
+# class
+. Vector2 bullet_pos public
+. Vector2 bullet_dir public
+. float wait_time public
+. byte state public
+. bool fired public

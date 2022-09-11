@@ -1,0 +1,5 @@
+# class
+. Animation attack_animation public
+. Texture2D bullet public
+. float bullet_speed public
+. float fire_rate public

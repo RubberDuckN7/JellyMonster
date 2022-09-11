@@ -1,0 +1,3 @@
+# class
+. Animation attack_animation public
+. float range public

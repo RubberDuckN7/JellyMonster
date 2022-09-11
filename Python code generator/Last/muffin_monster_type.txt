@@ -1,0 +1,4 @@
+# content
+. List<string> muffin_attacking public
+. string muffin_waiting public
+. Vector2 extents public

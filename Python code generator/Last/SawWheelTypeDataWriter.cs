@@ -1,0 +1,24 @@
+using System;
+using System.Collections.Generic;
+using Microsoft.Xna.Framework;
+using Microsoft.Xna.Framework.Graphics;
+using Microsoft.Xna.Framework.Content.Pipeline;
+using Microsoft.Xna.Framework.Content.Pipeline.Graphics;
+using Microsoft.Xna.Framework.Content.Pipeline.Processors;
+using Microsoft.Xna.Framework.Content.Pipeline.Serialization.Compiler;
+using ContentData;
+
+namespace ContentProcessor
+{
+    [ContentTypeWriter]
+    public class SawWheelTypeDataWriter : ContentDataWriter<SawWheelTypeData>
+    {
+        protected override void Write(ContentWriter output, SawWheelTypeData value)
+        {
+			// List<string> saw_wheel_walking
+			// Vector2 extents
+			// float speed
+
+        }
+    }
+}

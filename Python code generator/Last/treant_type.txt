@@ -1,0 +1,4 @@
+# content
+. List<string> treant_walking public
+. Vector2 extents public
+. float speed public

@@ -1,0 +1,7 @@
+# content
+. List<string> wizard_attacking public
+. List<string> wizard_waiting public
+. string magic_missile public
+. Vector2 extents public
+. float magic_speed public
+. float fire_rate public

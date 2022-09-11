@@ -1,0 +1,3 @@
+# class
+. float wait_time public
+. byte state public

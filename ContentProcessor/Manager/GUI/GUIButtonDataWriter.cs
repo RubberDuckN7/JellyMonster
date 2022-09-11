@@ -1,0 +1,23 @@
+﻿using System;
+using System.Collections.Generic;
+using Microsoft.Xna.Framework;
+using Microsoft.Xna.Framework.Graphics;
+using Microsoft.Xna.Framework.Content.Pipeline;
+using Microsoft.Xna.Framework.Content.Pipeline.Graphics;
+using Microsoft.Xna.Framework.Content.Pipeline.Processors;
+using Microsoft.Xna.Framework.Content.Pipeline.Serialization.Compiler;
+using ContentData;
+
+namespace ContentProcessor
+{
+    [ContentTypeWriter]
+    public class GUIButtonDataWriter : ContentDataWriter<GUIButtonData>
+    {
+        protected override void Write(ContentWriter output, GUIButtonData value)
+        {
+            output.Write(value.Background);
+            output.Write(value.Pressed);
+            output.Write(value.Font);
+        }
+    }
+}

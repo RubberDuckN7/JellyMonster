@@ -1,0 +1,7 @@
+# content
+. List<string> laser_robot_waiting public
+. List<string> laser_robot_attacking public
+. string laser_shot public
+. Vector2 extents public
+. float bullet_speed public
+. float fire_rate public

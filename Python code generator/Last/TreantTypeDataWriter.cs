@@ -1,0 +1,24 @@
+using System;
+using System.Collections.Generic;
+using Microsoft.Xna.Framework;
+using Microsoft.Xna.Framework.Graphics;
+using Microsoft.Xna.Framework.Content.Pipeline;
+using Microsoft.Xna.Framework.Content.Pipeline.Graphics;
+using Microsoft.Xna.Framework.Content.Pipeline.Processors;
+using Microsoft.Xna.Framework.Content.Pipeline.Serialization.Compiler;
+using ContentData;
+
+namespace ContentProcessor
+{
+    [ContentTypeWriter]
+    public class TreantTypeDataWriter : ContentDataWriter<TreantTypeData>
+    {
+        protected override void Write(ContentWriter output, TreantTypeData value)
+        {
+			// List<string> treant_walking
+			// Vector2 extents
+			// float speed
+
+        }
+    }
+}

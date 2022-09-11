@@ -1,0 +1,5 @@
+# content
+. List<string> spikes_attacking public
+. List<string> spikes_removing public
+. string spikes_waiting public
+. Vector2 extents public

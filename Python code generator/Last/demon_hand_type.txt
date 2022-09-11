@@ -1,0 +1,5 @@
+# content
+. List<string> demon_hand public
+. string demon_claw public
+. Vector2 extents public
+. float range public

@@ -1,0 +1,80 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010 Express for Windows Phone
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jelly Monster", "Jelly Monster\Jelly Monster\Jelly Monster.csproj", "{1CDCBB23-CAC7-40E8-8BC5-73EE9FB6F579}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "Jelly MonsterContent", "Jelly Monster\Jelly MonsterContent\Jelly MonsterContent.contentproj", "{ED5BAC3A-05CE-4EDA-B949-EB2819B076FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContentData", "ContentData\ContentData.csproj", "{B482FD5A-F28A-4DDD-9987-1A8F771EE2FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContentProcessor", "ContentProcessor\ContentProcessor.csproj", "{05C89224-885F-498F-98C1-27A995704CC6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IrisEngine", "IrisEngine\IrisEngine.csproj", "{16CF2E4E-B737-4A30-8724-60A2F3196B0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|Windows Phone = Debug|Windows Phone
+		Debug|x86 = Debug|x86
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|Windows Phone = Release|Windows Phone
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1CDCBB23-CAC7-40E8-8BC5-73EE9FB6F579}.Debug|Mixed Platforms.ActiveCfg = Debug|Windows Phone
+		{1CDCBB23-CAC7-40E8-8BC5-73EE9FB6F579}.Debug|Mixed Platforms.Build.0 = Debug|Windows Phone
+		{1CDCBB23-CAC7-40E8-8BC5-73EE9FB6F579}.Debug|Mixed Platforms.Deploy.0 = Debug|Windows Phone
+		{1CDCBB23-CAC7-40E8-8BC5-73EE9FB6F579}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{1CDCBB23-CAC7-40E8-8BC5-73EE9FB6F579}.Debug|Windows Phone.Build.0 = Debug|Windows Phone
+		{1CDCBB23-CAC7-40E8-8BC5-73EE9FB6F579}.Debug|Windows Phone.Deploy.0 = Debug|Windows Phone
+		{1CDCBB23-CAC7-40E8-8BC5-73EE9FB6F579}.Debug|x86.ActiveCfg = Debug|Windows Phone
+		{1CDCBB23-CAC7-40E8-8BC5-73EE9FB6F579}.Release|Mixed Platforms.ActiveCfg = Release|Windows Phone
+		{1CDCBB23-CAC7-40E8-8BC5-73EE9FB6F579}.Release|Mixed Platforms.Build.0 = Release|Windows Phone
+		{1CDCBB23-CAC7-40E8-8BC5-73EE9FB6F579}.Release|Mixed Platforms.Deploy.0 = Release|Windows Phone
+		{1CDCBB23-CAC7-40E8-8BC5-73EE9FB6F579}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{1CDCBB23-CAC7-40E8-8BC5-73EE9FB6F579}.Release|Windows Phone.Build.0 = Release|Windows Phone
+		{1CDCBB23-CAC7-40E8-8BC5-73EE9FB6F579}.Release|Windows Phone.Deploy.0 = Release|Windows Phone
+		{1CDCBB23-CAC7-40E8-8BC5-73EE9FB6F579}.Release|x86.ActiveCfg = Release|Windows Phone
+		{ED5BAC3A-05CE-4EDA-B949-EB2819B076FC}.Debug|Mixed Platforms.ActiveCfg = Debug|Windows Phone
+		{ED5BAC3A-05CE-4EDA-B949-EB2819B076FC}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{ED5BAC3A-05CE-4EDA-B949-EB2819B076FC}.Debug|x86.ActiveCfg = Debug|Windows Phone
+		{ED5BAC3A-05CE-4EDA-B949-EB2819B076FC}.Release|Mixed Platforms.ActiveCfg = Release|Windows Phone
+		{ED5BAC3A-05CE-4EDA-B949-EB2819B076FC}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{ED5BAC3A-05CE-4EDA-B949-EB2819B076FC}.Release|x86.ActiveCfg = Release|Windows Phone
+		{B482FD5A-F28A-4DDD-9987-1A8F771EE2FB}.Debug|Mixed Platforms.ActiveCfg = Debug|Windows Phone
+		{B482FD5A-F28A-4DDD-9987-1A8F771EE2FB}.Debug|Mixed Platforms.Build.0 = Debug|Windows Phone
+		{B482FD5A-F28A-4DDD-9987-1A8F771EE2FB}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{B482FD5A-F28A-4DDD-9987-1A8F771EE2FB}.Debug|Windows Phone.Build.0 = Debug|Windows Phone
+		{B482FD5A-F28A-4DDD-9987-1A8F771EE2FB}.Debug|x86.ActiveCfg = Debug|Windows Phone
+		{B482FD5A-F28A-4DDD-9987-1A8F771EE2FB}.Release|Mixed Platforms.ActiveCfg = Release|Windows Phone
+		{B482FD5A-F28A-4DDD-9987-1A8F771EE2FB}.Release|Mixed Platforms.Build.0 = Release|Windows Phone
+		{B482FD5A-F28A-4DDD-9987-1A8F771EE2FB}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{B482FD5A-F28A-4DDD-9987-1A8F771EE2FB}.Release|Windows Phone.Build.0 = Release|Windows Phone
+		{B482FD5A-F28A-4DDD-9987-1A8F771EE2FB}.Release|x86.ActiveCfg = Release|Windows Phone
+		{05C89224-885F-498F-98C1-27A995704CC6}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{05C89224-885F-498F-98C1-27A995704CC6}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{05C89224-885F-498F-98C1-27A995704CC6}.Debug|Windows Phone.ActiveCfg = Debug|x86
+		{05C89224-885F-498F-98C1-27A995704CC6}.Debug|Windows Phone.Build.0 = Debug|x86
+		{05C89224-885F-498F-98C1-27A995704CC6}.Debug|x86.ActiveCfg = Debug|x86
+		{05C89224-885F-498F-98C1-27A995704CC6}.Debug|x86.Build.0 = Debug|x86
+		{05C89224-885F-498F-98C1-27A995704CC6}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{05C89224-885F-498F-98C1-27A995704CC6}.Release|Mixed Platforms.Build.0 = Release|x86
+		{05C89224-885F-498F-98C1-27A995704CC6}.Release|Windows Phone.ActiveCfg = Release|x86
+		{05C89224-885F-498F-98C1-27A995704CC6}.Release|Windows Phone.Build.0 = Release|x86
+		{05C89224-885F-498F-98C1-27A995704CC6}.Release|x86.ActiveCfg = Release|x86
+		{05C89224-885F-498F-98C1-27A995704CC6}.Release|x86.Build.0 = Release|x86
+		{16CF2E4E-B737-4A30-8724-60A2F3196B0D}.Debug|Mixed Platforms.ActiveCfg = Debug|Windows Phone
+		{16CF2E4E-B737-4A30-8724-60A2F3196B0D}.Debug|Mixed Platforms.Build.0 = Debug|Windows Phone
+		{16CF2E4E-B737-4A30-8724-60A2F3196B0D}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{16CF2E4E-B737-4A30-8724-60A2F3196B0D}.Debug|Windows Phone.Build.0 = Debug|Windows Phone
+		{16CF2E4E-B737-4A30-8724-60A2F3196B0D}.Debug|x86.ActiveCfg = Debug|Windows Phone
+		{16CF2E4E-B737-4A30-8724-60A2F3196B0D}.Release|Mixed Platforms.ActiveCfg = Release|Windows Phone
+		{16CF2E4E-B737-4A30-8724-60A2F3196B0D}.Release|Mixed Platforms.Build.0 = Release|Windows Phone
+		{16CF2E4E-B737-4A30-8724-60A2F3196B0D}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{16CF2E4E-B737-4A30-8724-60A2F3196B0D}.Release|Windows Phone.Build.0 = Release|Windows Phone
+		{16CF2E4E-B737-4A30-8724-60A2F3196B0D}.Release|x86.ActiveCfg = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

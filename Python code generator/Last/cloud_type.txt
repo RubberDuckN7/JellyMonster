@@ -1,0 +1,9 @@
+# content
+. List<string> cloud_attacking public
+. List<string> cloud_waiting public
+. string thunder_one public
+. string thunder_two public
+. Vector2 extents public
+. float speed public
+. float thunder_length public
+. float wait_length public

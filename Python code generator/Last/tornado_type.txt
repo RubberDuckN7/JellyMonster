@@ -1,0 +1,4 @@
+# content
+. List<string> tornado_moving public
+. Vector2 extents public
+. float speed public

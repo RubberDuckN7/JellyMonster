@@ -1,0 +1,4 @@
+# content
+. List<string> ghost_walking public
+. Vector2 extents public
+. float speed

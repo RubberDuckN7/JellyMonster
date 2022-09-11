@@ -1,0 +1,7 @@
+# content
+. List<string> worm_monster_attacking public
+. string worm_waiting public
+. string acid_bullet public
+. Vector2 extents public
+. float bullet_speed public
+. float fire_rate public

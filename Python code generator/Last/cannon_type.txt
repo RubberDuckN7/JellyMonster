@@ -1,0 +1,7 @@
+# content
+. List<string> cannon_waiting public
+. List<string> cannon_attacking public
+. string cannon_ball public
+. Vector2 extents public
+. float ball_speed public
+. float fire_rate public
